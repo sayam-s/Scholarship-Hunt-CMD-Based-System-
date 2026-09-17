@@ -1,0 +1,66 @@
+Hassan
+Rizvi
+hassan.rizvi@mail.com
+32112-6655443-0
+0345-8877665
+M
+1999-12-02
+Islam
+Pakistani
+true
+false
+BS Computer Science
+Computing
+AI
+8
+FAST NUCES
+Pakistan
+Sindh
+Karachi
+Karachi
+Block 7, Gulshan-e-Iqbal
+198
+75300
+Pakistan
+Sindh
+Karachi
+Karachi
+Block 7, Gulshan-e-Iqbal
+198
+75300
+Rizwan
+Rizvi
+rizwan.rizvi@gmail.com
+32112-3322110-6
+0310-4455667
+M
+Father
+Banker
+78000.0
+936000.0
+Nargis
+Rizvi
+nargis.rizvi@gmail.com
+32112-7766554-5
+0336-1122445
+F
+Mother
+Teacher
+60000.0
+720000.0
+Bay View High
+Beaconhouse
+Adamjee College
+FAST
+2010
+2012
+2014
+2018
+1100.0
+1100.0
+1040.0
+1080.0
+3.9
+2
+Matriculation
+Intermediate

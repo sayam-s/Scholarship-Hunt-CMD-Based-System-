@@ -1,0 +1,66 @@
+Bilal
+Haider
+bilal.haider@mail.com
+32107-1122334-7
+0309-9988776
+M
+2000-09-20
+Islam
+Pakistani
+false
+true
+BS IT
+IT
+Cyber Security
+5
+COMSATS Islamabad
+Pakistan
+KPK
+Peshawar
+Hayatabad
+Street 5, Phase 1
+156
+25000
+Pakistan
+KPK
+Peshawar
+Hayatabad
+Street 5, Phase 1
+156
+25000
+Zahid
+Haider
+zahid.haider@gmail.com
+32107-6655443-7
+0321-9998887
+M
+Father
+Shopkeeper
+35000.0
+420000.0
+Farhat
+Bibi
+farhat.bibi@gmail.com
+32107-9877654-8
+0307-7766554
+F
+Mother
+Tailor
+18000.0
+216000.0
+Govt Model School
+Science High School
+City College
+COMSATS
+2010
+2012
+2014
+2018
+1030.0
+1050.0
+800.0
+870.0
+2.8
+2
+Matriculation
+Intermediate

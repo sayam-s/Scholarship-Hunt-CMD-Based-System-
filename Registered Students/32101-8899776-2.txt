@@ -1,0 +1,66 @@
+Yaqqob
+Javed
+yaqoob.javed@mail.com
+32101-8899776-2
+0313-7766554
+M
+2001-03-19
+Islam
+Pakistani
+false
+false
+BS Mechatronics
+Engineering
+Robotics
+6
+NFC Institute Multan
+Pakistan
+Punjab
+Multan
+Multan
+Street 5, Model Town
+118
+60000
+Pakistan
+Punjab
+Multan
+Multan
+Street 5, Model Town
+118
+60000
+Javed
+Iqbal
+javed.iqbal@gmail.com
+32101-9988776-1
+0333-4455667
+M
+Father
+Supervisor
+40000.0
+480000.0
+Samina
+Javed
+samina.javed@gmail.com
+32101-8877665-2
+0302-5544332
+F
+Mother
+Stitching Work
+15000.0
+180000.0
+Govt Model High
+Govt Tech College
+Punjab College
+NFC
+2012
+2014
+2016
+2020
+960.0
+980.0
+860.0
+870.0
+3.3
+2
+Matriculation
+Intermediate

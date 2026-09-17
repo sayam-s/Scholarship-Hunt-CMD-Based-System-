@@ -1,0 +1,66 @@
+Muhammad
+Raza
+m.raza@mail.com
+32102-9181188-1
+0300-2313121
+M
+2006-11-25
+Islam
+Pakistani
+false
+false
+Bachelors
+Bachelors
+Fashion Design
+2
+GIFT
+Pakistan
+Punjab
+Sargodha
+Khushab
+Street 32, Bilal Town, Phase 3
+451
+41000
+Pakistan
+Punjab
+Sargodha
+Khushab
+Street 32, Bilal Town, Phase 3
+451
+41000
+Muhammad
+Akhtar
+akhtar@gmail.com
+31011-9898772-3
+0321-9800011
+M
+Father
+Accountant
+65000.0
+395000.0
+Haleema
+Begum
+haleema@gmail.com
+32211-5454544-7
+0322-9879879
+F
+Mother
+Doctor
+198000.0
+2180000.0
+Asaas
+Asaas
+Federal Government
+Punjab University
+2018
+2020
+2022
+0
+1100.0
+1100.0
+873.0
+756.0
+3.1
+2
+Matriculation
+Intermediate

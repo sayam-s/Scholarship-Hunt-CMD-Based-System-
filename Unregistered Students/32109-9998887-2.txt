@@ -1,0 +1,66 @@
+Osama
+Naveed
+osama.naveed@gmail.com
+32109-9998887-2
+0340-2233445
+M
+2001-11-05
+Islam
+Pakistani
+false
+false
+BBA
+Business
+Finance
+4
+Superior University
+Pakistan
+Punjab
+Sialkot
+Sialkot
+Haji Pura Road
+121
+51310
+Pakistan
+Punjab
+Sialkot
+Sialkot
+Haji Pura Road
+121
+51310
+Naveed
+Akhtar
+naveed.akhtar@gmail.com
+32109-1122443-6
+0312-7766554
+M
+Father
+Manager
+72000.0
+864000.0
+Amna
+Naveed
+amna.naveed@gmail.com
+32109-5544332-1
+0324-3322110
+F
+Mother
+School Principal
+82000.0
+984000.0
+The Crescent School
+Govt School
+Punjab College
+Superior University
+2014
+2016
+2018
+2022
+1100.0
+1100.0
+1000.0
+1070.0
+3.85
+2
+Matriculation
+Intermediate

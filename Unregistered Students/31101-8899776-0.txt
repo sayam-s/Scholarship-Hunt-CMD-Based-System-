@@ -1,0 +1,66 @@
+Mahnoor
+Iqbal
+mahnoor.iqbal@mail.com
+31101-8899776-0
+0314-9988776
+F
+2002-05-03
+Islam
+Pakistani
+false
+false
+BS Economics
+Social Sciences
+Development Economics
+3
+LUMS
+Pakistan
+Punjab
+Lahore
+Lahore
+Gulberg III, House 33
+61
+54792
+Pakistan
+Punjab
+Lahore
+Lahore
+Gulberg III, House 33
+61
+54792
+Iqbal
+Ahmed
+iqbal.ahmed@gmail.com
+31101-4455667-1
+0300-7788990
+M
+Father
+Businessman
+120000.0
+1440000.0
+Farzana
+Iqbal
+farzana.iqbal@gmail.com
+31101-1122334-6
+0341-4433221
+F
+Mother
+Professor
+95000.0
+1140000.0
+Roots School
+Beaconhouse
+Kinnaird College
+LUMS
+2014
+2016
+2018
+2022
+1100.0
+1100.0
+1050.0
+1070.0
+3.9
+2
+Matriculation
+Intermediate

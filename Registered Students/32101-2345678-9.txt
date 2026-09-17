@@ -1,0 +1,66 @@
+Hina
+Shah
+hina.shah@gmail.com
+32101-2345678-9
+0345-6543210
+F
+2002-08-25
+Islam
+Pakistani
+false
+true
+BBA
+Business
+Marketing
+3
+IBA Karachi
+Pakistan
+Sindh
+Karachi
+Karachi
+Phase 2, DHA
+221
+75500
+Pakistan
+Sindh
+Karachi
+Karachi
+Phase 2, DHA
+221
+75500
+Faisal
+Shah
+faisal.shah@gmail.com
+32101-9876543-3
+0311-9988776
+M
+Father
+Businessman
+95000.0
+1140000.0
+Rabia
+Shah
+rabia.shah@gmail.com
+32101-1112223-6
+0344-5544332
+F
+Mother
+Teacher
+60000.0
+720000.0
+The Lyceum
+Bayview High
+The City College
+IBA
+2014
+2016
+2018
+2022
+1100.0
+1100.0
+1020.0
+980.0
+3.65
+2
+Matriculation
+Intermediate

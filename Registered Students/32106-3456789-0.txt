@@ -1,0 +1,66 @@
+Areeba
+Khan
+areeba.khan@gmail.com
+32106-3456789-0
+0332-1122334
+F
+2003-01-17
+Islam
+Pakistani
+false
+false
+BS Psychology
+Social Sciences
+Clinical Psychology
+2
+LCWU
+Pakistan
+Punjab
+Faisalabad
+Faisalabad
+Street 14, Madina Town
+78
+38000
+Pakistan
+Punjab
+Faisalabad
+Faisalabad
+Street 14, Madina Town
+78
+38000
+Rashid
+Khan
+rashid.khan@gmail.com
+32106-9876543-0
+0345-6677880
+M
+Father
+Engineer
+85000.0
+1020000.0
+Samina
+Khan
+samina.khan@gmail.com
+32106-3456123-4
+0334-5566778
+F
+Mother
+Teacher
+55000.0
+660000.0
+City School
+Divisional School
+Punjab Group
+LCWU
+2015
+2017
+2019
+2023
+1090.0
+1100.0
+985.0
+1040.0
+3.7
+2
+Matriculation
+Intermediate

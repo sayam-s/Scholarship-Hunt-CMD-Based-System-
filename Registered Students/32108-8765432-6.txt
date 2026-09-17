@@ -1,0 +1,66 @@
+Mehwish
+Ali
+mehwish.ali@mail.com
+32108-8765432-6
+0312-3344556
+F
+2002-07-15
+Islam
+Pakistani
+false
+false
+BS English
+Humanities
+Linguistics
+3
+Bahauddin Zakariya University
+Pakistan
+Punjab
+Multan
+Multan
+Block A, Model Town
+98
+60000
+Pakistan
+Punjab
+Multan
+Multan
+Block A, Model Town
+98
+60000
+Imran
+Ali
+imran.ali@gmail.com
+32108-1122334-5
+0306-4433221
+M
+Father
+Lecturer
+65000.0
+780000.0
+Kiran
+Ali
+kiran.ali@gmail.com
+32108-4455667-3
+0332-9988776
+F
+Mother
+Housewife
+0.0
+0.0
+The Grammar School
+Govt Girls School
+City College
+BZU
+2013
+2015
+2017
+2021
+1080.0
+1095.0
+970.0
+1030.0
+3.55
+2
+Matriculation
+Intermediate

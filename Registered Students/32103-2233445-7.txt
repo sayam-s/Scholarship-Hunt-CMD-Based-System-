@@ -1,0 +1,66 @@
+Zohaib
+Aslam
+zohaib.aslam@mail.com
+32103-2233445-7
+0320-5566778
+M
+2001-07-11
+Islam
+Pakistani
+false
+false
+BS Statistics
+Mathematics
+Data Analytics
+5
+GC University Lahore
+Pakistan
+Punjab
+Lahore
+Lahore
+Johar Town, Block A
+77
+54500
+Pakistan
+Punjab
+Lahore
+Lahore
+Johar Town, Block A
+77
+54500
+Aslam
+Qureshi
+aslam.qureshi@gmail.com
+32103-3344556-2
+0345-9988776
+M
+Father
+Retired
+25000.0
+300000.0
+Nasreen
+Aslam
+nasreen.aslam@gmail.com
+32103-1122334-9
+0312-4433221
+F
+Mother
+Housewife
+0.0
+0.0
+Govt High School
+Govt Boys College
+Punjab College
+GCU
+2013
+2015
+2017
+2021
+1000.0
+1040.0
+850.0
+900.0
+3.2
+2
+Matriculation
+Intermediate

@@ -1,0 +1,66 @@
+Bilal
+Mehmood
+bilal.mehmood@mail.com
+33102-3344556-1
+0345-6677889
+M
+2002-08-21
+Islam
+Pakistani
+false
+true
+BS Software Engineering
+Computing
+Web Development
+4
+COMSATS Lahore
+Pakistan
+Punjab
+Lahore
+Lahore
+Shalimar Bagh, Street 12
+55
+54000
+Pakistan
+Punjab
+Lahore
+Lahore
+Shalimar Bagh, Street 12
+55
+54000
+Mehmood
+Rafiq
+mehmood.rafiq@gmail.com
+33102-5566778-2
+0311-3344556
+M
+Father
+Mechanic
+30000.0
+360000.0
+Rubina
+Bibi
+rubina.bibi@gmail.com
+33102-1122334-3
+0345-7788990
+F
+Mother
+Tailor
+20000.0
+240000.0
+Govt Boys School
+Govt Model High
+Govt College
+COMSATS
+2013
+2015
+2017
+2021
+970.0
+980.0
+880.0
+860.0
+3.2
+2
+Matriculation
+Intermediate

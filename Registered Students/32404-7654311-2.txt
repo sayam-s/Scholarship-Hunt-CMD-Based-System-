@@ -1,0 +1,66 @@
+Sana
+Baloch
+sana@gmail.com
+32404-7654311-2
+0300-9876598
+F
+2005-02-03
+Islam
+Pakistani
+false
+false
+Bachelors
+Bachelors
+Business
+3
+NUST
+Pakistan
+Punjab
+Rawalpindi
+Islamabad
+Street 11, F-12 Block
+89
+1223
+Pakistan
+Balochistan
+Karezat
+Karezat
+Street 34, Khursheed Town
+321
+34401
+Aslam
+Baloch
+asl@mail.com
+31001-3456345-0
++92300-121223233
+M
+Father
+Lieutenant
+78000.0
+940000.0
+Humaira
+Shahid
+humair@mail.com
+32221-3443455-0
++92330-98706544
+F
+Mother
+Army Doctor
+66000
+790000.0
+Federal Government
+Government School
+Cadet College Peshawar
+NUST
+2016
+2018
+2020
+0
+880.0
+1100.0
+765
+977.0
+3.45
+2
+Matriculation
+Intermediate

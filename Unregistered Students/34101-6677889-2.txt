@@ -1,0 +1,66 @@
+Usman
+Tariq
+usman.tariq@mail.com
+34101-6677889-2
+0331-4455667
+M
+2000-09-18
+Islam
+Pakistani
+false
+false
+BS Electrical Engineering
+Engineering
+Electronics
+7
+UET Taxila
+Pakistan
+Punjab
+Rawalpindi
+Wah Cantt
+Street 9, Quaid Avenue
+102
+47040
+Pakistan
+Punjab
+Rawalpindi
+Wah Cantt
+Street 9, Quaid Avenue
+102
+47040
+Tariq
+Hameed
+tariq.hameed@gmail.com
+34101-2233445-6
+0324-1122334
+M
+Father
+Electrician
+45000.0
+540000.0
+Bushra
+Tariq
+bushra.tariq@gmail.com
+34101-9988776-4
+0333-5566778
+F
+Mother
+Homemaker
+0.0
+0.0
+Govt Tech School
+Govt Science High
+Govt Science College
+UET
+2011
+2013
+2015
+2019
+970.0
+950.0
+870.0
+920.0
+3.5
+2
+Matriculation
+Intermediate

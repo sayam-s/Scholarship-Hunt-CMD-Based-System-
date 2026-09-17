@@ -1,0 +1,66 @@
+Amna
+Khan
+amna@gmail.com
+32021-9876543-2
+0333-12345678
+F
+2003-01-12
+Islam
+Pakistani
+false
+false
+Bachelors
+Computer Science
+Computer Science
+6
+NUST 
+Pakistan
+Punjab
+Rawalpindi
+Islamabad
+Street 14, G-9 Block
+234
+1221
+Pakistan
+Punjab
+Rawalpindi
+Islamabad
+Street 14, G-9 Block
+234
+1221
+Riaz
+Khan
+riaz@hotmail.com
+32101-5674334-0
++923333-1234567
+M
+Father
+Business Man
+5000000.0
+1.2E9
+Laila
+Khan
+laila@gmail.com
+32101-8876555-9
+0321456233
+F
+Mother
+House Wife
+0.0
+0.0
+APSACS
+APSACS
+APSACS
+NUST
+2018
+2020
+2022
+0
+1100.0
+1100.0
+980.0
+899.0
+3.9
+2
+Matriculation
+Intermediate

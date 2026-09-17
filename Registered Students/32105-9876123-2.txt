@@ -1,0 +1,66 @@
+Hamza
+Iqbal
+hamza.iqbal@mail.com
+32105-9876123-2
+0303-9988776
+M
+2000-06-10
+Islam
+Pakistani
+true
+false
+BS Mathematics
+Science
+Statistics
+7
+University of Karachi
+Pakistan
+Sindh
+Hyderabad
+Latifabad
+Street 9
+334
+71000
+Pakistan
+Sindh
+Hyderabad
+Latifabad
+Street 9
+334
+71000
+Khalid
+Iqbal
+khalid.iqbal@gmail.com
+32105-1234567-5
+0343-9080706
+M
+Father
+Banker
+78000.0
+936000.0
+Shehla
+Iqbal
+shehla.iqbal@gmail.com
+32105-4567890-3
+0322-6677889
+F
+Mother
+Nurse
+40000.0
+480000.0
+Pak-Turk School
+Govt High School
+NCR College
+University of Karachi
+2012
+2014
+2016
+2020
+1050.0
+1100.0
+960.0
+1000.0
+3.33
+2
+Matriculation
+Intermediate

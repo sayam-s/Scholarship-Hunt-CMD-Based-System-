@@ -1,0 +1,66 @@
+Taha
+Shahid
+taha.shahid@mail.com
+32111-9988776-5
+0313-2233445
+M
+2001-06-10
+Islam
+Pakistani
+false
+false
+BS Physics
+Sciences
+Astrophysics
+6
+Punjab University
+Pakistan
+Punjab
+Lahore
+Lahore
+Street 42, DHA Phase 5
+312
+54000
+Pakistan
+Punjab
+Lahore
+Lahore
+Street 42, DHA Phase 5
+312
+54000
+Shahid
+Ali
+shahid.ali@gmail.com
+32111-5566778-9
+0320-4433221
+M
+Father
+Clerk
+35000.0
+420000.0
+Farah
+Shahid
+farah.shahid@gmail.com
+32111-1122334-4
+0331-9988776
+F
+Mother
+Stitching
+15000.0
+180000.0
+City Public School
+Govt High School
+Punjab College
+PU
+2012
+2014
+2016
+2020
+1085.0
+1090.0
+920.0
+940.0
+3.45
+2
+Matriculation
+Intermediate

@@ -1,0 +1,66 @@
+Hira
+Naseem
+hira.naseem@mail.com
+34102-1234567-8
+0346-7788990
+F
+2003-12-12
+Islam
+Pakistani
+false
+false
+BS Nutrition
+Medical Sciences
+Food Technology
+1
+UVAS Lahore
+Pakistan
+Punjab
+Faisalabad
+Jaranwala
+House #89, Street 4
+75
+37250
+Pakistan
+Punjab
+Faisalabad
+Jaranwala
+House #89, Street 4
+75
+37250
+Naseem
+Khan
+naseem.khan@gmail.com
+34102-9988776-0
+0303-2233445
+M
+Father
+Farmer
+28000.0
+336000.0
+Zareena
+Bibi
+zareena.bibi@gmail.com
+34102-3344556-1
+0340-6655443
+F
+Mother
+Housewife
+0.0
+0.0
+Govt Girls School
+Govt College
+Punjab College
+UVAS
+2015
+2017
+2019
+2023
+980.0
+995.0
+860.0
+910.0
+3.6
+2
+Matriculation
+Intermediate

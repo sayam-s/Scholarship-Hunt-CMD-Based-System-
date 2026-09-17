@@ -1,0 +1,66 @@
+Zoya
+Ahmed
+zoya.ahmed@hotmail.com
+35201-9876543-2
+03111223344
+F
+2000-07-22
+Islam
+Pakistani
+true
+true
+BS Psychology
+Social Sciences
+Clinical Psychology
+7
+Punjab University Lahore
+Pakistan
+Punjab
+Lahore
+Lahore
+Model Town
+57
+54500
+Pakistan
+Punjab
+Rawalpindi
+Rawalpindi
+Saddar Bazaar
+34
+46000
+Sajid
+Ahmed
+sajid.ahmed@gmail.com
+35202-4455667-3
+03455667788
+M
+Father
+Retired Officer
+55000.0
+660000.0
+Samina
+Ahmed
+samina.ahmed@gmail.com
+35203-3344556-4
+03214455667
+F
+Mother
+Homemaker
+0.0
+0.0
+The City School Gulberg
+Govt. Girls High School
+Govt. Degree College for Women
+Punjab University
+2014
+2016
+2018
+2022
+1000.0
+1100.0
+920.0
+990.0
+3.45
+2
+BA Psychology
+Certificate in Counseling

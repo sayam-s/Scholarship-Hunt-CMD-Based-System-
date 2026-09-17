@@ -1,0 +1,66 @@
+Ali
+Ansari
+ali.ansari@mail.com
+34543-2639119-5
+0303-3119721
+M
+2003-11-27
+Islam
+Pakistani
+true
+true
+Bachelors
+CS
+Business
+5
+Punjab University
+Pakistan
+Punjab
+Faisalabad
+Sialkot
+Street 12
+387
+45621
+Pakistan
+Punjab
+Faisalabad
+Lahore
+Street 12
+387
+45621
+Omar
+Malik
+omar@gmail.com
+36551-9060143-3
+034-2859474
+M
+Father
+Engineer
+54011.15
+648133.8
+Hira
+Ansari
+hira@gmail.com
+38658-1140904-2
+034-2221347
+F
+Mother
+Doctor
+78082.24
+937986.88
+Govt School
+Govt High
+Govt College
+Punjab University
+2016
+2018
+2020
+0
+1100.0
+1100.0
+949.6
+846.7
+3.99
+2
+Matriculation
+Intermediate

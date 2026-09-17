@@ -1,0 +1,66 @@
+Shahzaib
+Ali
+shahzaib.ali@mail.com
+36101-2233445-9
+0309-9988776
+M
+2000-06-05
+Islam
+Pakistani
+false
+false
+BS Mass Communication
+Humanities
+Media Studies
+8
+NUML Islamabad
+Pakistan
+Punjab
+Rawalpindi
+Rawalpindi
+House 55, Satellite Town
+301
+46000
+Pakistan
+Punjab
+Rawalpindi
+Rawalpindi
+House 55, Satellite Town
+301
+46000
+Ali
+Raza
+ali.raza@gmail.com
+36101-6677889-3
+0325-7788990
+M
+Father
+News Editor
+75000.0
+900000.0
+Tehmina
+Ali
+tehmina.ali@gmail.com
+36101-1122334-2
+0315-9988776
+F
+Mother
+Lecturer
+60000.0
+720000.0
+City School
+Roots College
+NUML Prep
+NUML
+2011
+2013
+2015
+2019
+1080.0
+1100.0
+980.0
+1020.0
+3.7
+2
+Matriculation
+Intermediate

@@ -1,0 +1,66 @@
+Sana
+Farooq
+sana.farooq@mail.com
+32222-3344556-1
+0301-3344556
+F
+2000-01-29
+Islam
+Pakistani
+false
+true
+BS Education
+Social Sciences
+Curriculum Studies
+3
+University of Karachi
+Pakistan
+Sindh
+Hyderabad
+Latifabad
+House #12, Block B
+92
+71000
+Pakistan
+Sindh
+Hyderabad
+Latifabad
+House #12, Block B
+92
+71000
+Farooq
+Ahmed
+farooq.ahmed@gmail.com
+42201-1234567-0
+0323-9988776
+M
+Father
+Teacher
+42000.0
+504000.0
+Shagufta
+Farooq
+shagufta.farooq@gmail.com
+42201-2345678-9
+0331-1122334
+F
+Mother
+Homemaker
+0.0
+0.0
+Govt Girls School
+Govt College for Women
+Sindh University
+KU
+2011
+2013
+2015
+2019
+1050.0
+1070.0
+900.0
+880.0
+3.4
+2
+Matriculation
+Intermediate

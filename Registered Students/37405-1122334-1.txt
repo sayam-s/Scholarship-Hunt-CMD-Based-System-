@@ -1,0 +1,67 @@
+Hassan
+Raza
+hassan.raza@gmail.com
+37405-1122334-1
+03003456789
+M
+2001-12-10
+Islam
+Pakistani
+false
+false
+BS Electrical Engineering
+Engineering
+Power Systems
+3
+GIKI Swabi
+Pakistan
+KPK
+Swabi
+Topi
+University Road
+29
+23450
+Pakistan
+KPK
+Mardan
+Mardan
+College Road
+102
+23200
+Rizwan
+Raza
+rizwan.raza@yahoo.com
+37406-4455667-1
+03451239876
+M
+Father
+Businessman
+125000.0
+1500000.0
+Nazia
+Raza
+nazia.raza@gmail.com
+37407-9988776-2
+03331234567
+F
+Mother
+Housewife
+0.0
+0.0
+Roots International
+Cadet College Hassan Abdal
+Punjab College Islamabad
+GIKI Swabi
+2013
+2015
+2017
+2021
+1050.0
+1100.0
+980.0
+1020.0
+3.75
+3
+DAE Electrical
+BS Electrical Engineering
+Certificate in Robotics

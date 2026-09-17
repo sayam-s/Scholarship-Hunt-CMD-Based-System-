@@ -1,0 +1,66 @@
+Ayaan
+Khan
+ayaan.khan@gmail.com
+32102-1234567-1
+03001234567
+M
+2001-03-15
+Islam
+Pakistani
+false
+false
+MS Computer Science
+CS Department
+Artificial Intelligence
+5
+National University of Science and Tech
+Pakistan
+Punjab
+Lahore
+Lahore
+Ferozepur Road
+145
+54000
+Pakistan
+Punjab
+Multan
+Multan
+Khanewal Road
+78
+60000
+Farhan
+Khan
+farhan.khan@gmail.com
+32103-2345678-1
+03004561234
+M
+Father
+Engineer
+75000.0
+900000.0
+Aqeela
+Khan
+aqeela.khan@gmail.com
+32104-3456789-2
+03007891234
+F
+Mother
+Teacher
+40000.0
+480000.0
+Iqbal Town Middle School
+Govt. High School Lahore
+Govt. College Multan
+FAST NUCES Lahore
+2015
+2017
+2019
+2023
+1100.0
+1100.0
+990.0
+1050.0
+3.62
+2
+Bachelors in Computer Science
+Diploma in AI

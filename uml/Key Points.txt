@@ -1,0 +1,100 @@
+import java.time.LocalDate;
+
+LocalDate Java ki ek class hai jo sirf date (yyyy-mm-dd) ko handle karti hai, 
+bina time ke.
+🔹 Kya kaam aata hai?
+Current date lana
+Specific date create karna
+Date se related calculations (jaise +days, -months, compare)
+
+Method				Kaam
+LocalDate.now()	          	Aaj ki date lata hai
+LocalDate.of(2025, 7, 28)	Specific date banata hai
+plusDays(5)			5 din add karta hai
+minusMonths(2)			2 months pehle ki date deta hai
+getYear()			Sirf year return karta hai
+isAfter(date)			Check karta hai kya current date kisi aur date ke baad hai
+isBefore(date)			Check karta hai kya pehle hai
+
+
+.parse()
+.parse kaam aata hai string ko object mein convert karne ke liye 
+— especially jab humari string kisi specific format mein ho.
+
+
+🔸 super(name, amt, date);
+→ Jab date already LocalDate ho (object), to seedha use kr skte ho.
+
+🔸 super(name, amt, LocalDate.parse(date));
+→ Jab date string ho (e.g. "2025-08-15"), to .parse() se LocalDate object bna kr use krte hain.
+
+
+Buffer: loading ya processing
+
+static Scanner sc = new Scanner(System.in);
+Static Scanner isliye likhte hain taake sab static methods isse
+user ka input le saken bina kisi aur object banaye.
+
+throws Exception, IOException ka matlab:
+
+Risky code hai method ke andar — jaise file read/write ya input.
+Java ko batana padta hai ke yahan error (exception) aa sakta hai.
+IOException = sirf input/output wali error.
+Exception = har type ki general error.
+Agar hum try-catch use nahi kar rahe, to throws lagate hain method ke sath.
+
+WordChecker():
+
+word.matches("[a-zA-Z]+"):
+Check karta hai kya ye word sirf letters pe based hai?
+Allowed: A-Z or a-z (no digits, no spaces, no special characters)
+
+StringChecker() method kya karta hoga?
+
+Yani is method ka kaam likely ye hoga:
+Check kare ke string sirf alphabets hai ya nahi
+Khali string to nahi
+Special characters ya numbers to nahi hain
+
+!email.matches("^[\\w-.]+@[\\w-]+\\.[a-zA-Z]{2,}$"):
+
+^[\w-.]+      → Start mein 1 ya zyada valid characters (letters, numbers, _, -, .)
+@             → Must have '@' symbol
+[\w-]+        → '@' ke baad domain name (like gmail, yahoo)
+\.            → Dot (.) literal (escaped using \\)
+[a-zA-Z]{2,}  → Top level domain (like .com, .edu) — kam az kam 2 letters
+
+destinationFolder.mkdir();
+Create a new folfer
+
+.renameTo():
+ka use sirf rename karne ke liye nahi hota — ye file ko move bhi karta hai, agar destination path alag ho.
+
+BufferedReader reader = new BufferedReader(new FileReader(file));
+
+1. FileReader(file)
+Yeh class kisi file ko read (parhna) karti hai character by character.
+file ka matlab hai file ka object jisko tum read karna chahti ho. (Jaise file = new File("data.txt"))
+
+2. BufferedReader
+FileReader slow hota hai, isliye hum BufferedReader ka use karte hain jo fast reading deta hai.
+Yeh line by line read kar sakta hai (readLine() method se).
+
+3. Pura matlab:
+Tum file open kar rahi ho reading ke liye.
+Aur tum use BufferedReader ke zariye efficiently read karogi.
+
+instanceof in Java:
+Java mein instanceof ka use ye check krne ke liye hota hai ke 
+koi object kis class ka instance hai (ya us class se inherit hua hai).
+
+flush() kya karta hai?
+Jab hum PrintWriter ya kisi bhi writer object ke saath file mein likhte hain, 
+to data temporary memory (buffer) mein store hota hai. Lekin turant file mein likha nahi jata.
+flush() ka kaam hota hai buffered ya pending data ko forcefully file mein likhna — bina close() kare.
+
+split() kya karta hai?
+.split() method kisi String ko tukdon mein divide karta hai based on separator (jaise -, ,, :, space etc).
+
+
+

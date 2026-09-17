@@ -1,0 +1,66 @@
+Mehak
+Ali
+mehak.ali@gmail.com
+32101-3344556-2
+03211234567
+F
+1999-04-05
+Islam
+Pakistani
+false
+true
+BS Visual Arts
+Arts Department
+Painting
+6
+Indus Valley School of Art and Architecture
+Pakistan
+Sindh
+Karachi
+Karachi
+Clifton Block 7
+22
+75600
+Pakistan
+Sindh
+Hyderabad
+Hyderabad
+Thandi Sarak
+45
+71000
+Naveed
+Ali
+naveed.ali@gmail.com
+42102-7766554-3
+03001112222
+M
+Father
+Graphic Designer
+60000.0
+720000.0
+Shaista
+Ali
+shaista.ali@gmail.com
+42103-6655443-4
+03331110000
+F
+Mother
+Artist
+25000.0
+300000.0
+Bay View High
+The Lyceum
+IVS Foundation Program
+IVS Main Campus
+2012
+2014
+2016
+2020
+970.0
+1050.0
+900.0
+980.0
+3.90
+2
+BA Fine Arts
+Certificate in Digital Illustration
